@@ -1,0 +1,94 @@
+{
+  "candidates": [
+    {
+      "image": "img_0053",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: đối tượng là người đứng rõ ràng (person), nhưng nhãn detection lại gán nhầm thành baseball glove."
+    },
+    {
+      "image": "img_0091",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: vật thể trung tâm là chiếc bánh sinh nhật (cake), nhãn detection bị gán nhầm thành donut."
+    },
+    {
+      "image": "img_0094",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: xe tải thùng lớn chở hàng (truck), nhãn detection bị gán nhầm thành car."
+    },
+    {
+      "image": "img_0015",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: ly rượu vang có chân cao trên bàn tiệc (wine glass), nhãn detection bị gán nhầm thành cup."
+    },
+    {
+      "image": "img_0043",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: bát súp lớn đặt trên bàn ăn (bowl), nhãn detection bị gán nhầm phân loại thành cup."
+    },
+    {
+      "image": "img_0180",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: người đang nằm nghỉ (person), bounding box bao phủ người nhưng nhãn detection lại gán là bed."
+    },
+    {
+      "image": "img_0096",
+      "type": "missing_box",
+      "note": "Mở ảnh xem: lò nướng lớn (oven) ở góc bếp chiếm diện tích đáng kể nhưng hoàn toàn bị bỏ sót không gán box."
+    },
+    {
+      "image": "img_0125",
+      "type": "missing_box",
+      "note": "Mở ảnh xem: xe ô tô lớn sát mép trái bị che khuất nhiều nhưng theo guideline v1.3 bắt buộc phải gán box, bị sót."
+    },
+    {
+      "image": "img_0240",
+      "type": "bbox_drift",
+      "note": "Mở ảnh xem: con cừu đứng trên đồng cỏ, box detection bị lệch hẳn xuống phía dưới và cắt cụt thân trên con vật."
+    },
+    {
+      "image": "img_0220",
+      "type": "bbox_drift",
+      "note": "Mở ảnh xem: người đi bộ đứng bên đường, box detection bị trôi lệch xuống dưới phần thân, hở toàn bộ phần đầu."
+    },
+    {
+      "image": "img_0202",
+      "type": "bbox_drift",
+      "note": "Mở ảnh xem: chiếc ô cầm tay (umbrella), box detection bị dạt lệch tâm và giãn kích thước không khớp thực tế."
+    },
+    {
+      "image": "img_0008",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: các chai lọ và cốc trên bàn nằm sát nhau bị che khuất một phần, nhãn gán phân loại là chấp nhận được."
+    },
+    {
+      "image": "img_0025",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: ghế bành sofa đơn trong phòng khách ranh giới giữa chair và couch không rõ ràng, giữ nhãn hiện tại."
+    },
+    {
+      "image": "img_0029",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: cụm ly và chai trên quầy bar góc nhìn chéo khó phân định chính xác, không đủ căn cứ để coi là lỗi gán."
+    },
+    {
+      "image": "img_0073",
+      "type": "class_swap",
+      "note": "Mở ảnh xem: ghế tựa salon trong phòng chờ phân loại couch/chair tương đồng, nhãn của annotator hợp lý."
+    },
+    {
+      "image": "img_0114",
+      "type": "bbox_drift",
+      "note": "Mở ảnh xem: hai chú gấu bông nằm sát nhau, box detection bao trọn từng cá thể theo góc nghiêng, không phải lỗi drift."
+    },
+    {
+      "image": "img_0130",
+      "type": "bbox_drift",
+      "note": "Mở ảnh xem: người trượt tuyết di chuyển nhanh tạo bóng mờ, box detection bao phủ vừa vặn biên dạng người."
+    },
+    {
+      "image": "img_0187",
+      "type": "bbox_drift",
+      "note": "Mở ảnh xem: ngựa vằn đứng nghiêng góc 45 độ, box detection bao sát thân và chân, không bị trôi lệch tâm."
+    }
+  ]
+}
