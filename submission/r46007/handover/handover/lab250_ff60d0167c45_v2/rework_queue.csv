@@ -1,0 +1,9 @@
+image,type,annotator,reviewer,action
+000000001490,invalid_class,A01,Q03,gán lại class_id hợp lệ (0-79)
+000000010363,missing_box,A02,Q03,bổ sung box còn thiếu
+000000011149,class_swap,A02,Q03,gán lại đúng lớp theo guideline của job
+000000015278,duplicate_box,A05,Q02,"xoá box trùng, giữ một box"
+000000018770,missing_image,A01,Q01,bổ sung lại file ảnh rồi kiểm nhãn
+000000021604,duplicate_box,A02,Q03,"xoá box trùng, giữ một box"
+000000022623,bbox_out_of_bounds,A02,Q03,vẽ lại box nằm trong ảnh
+000000025424,class_swap,A03,Q01,gán lại đúng lớp theo guideline của job

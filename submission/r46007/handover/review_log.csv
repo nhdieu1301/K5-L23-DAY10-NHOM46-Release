@@ -1,0 +1,13 @@
+image,type,verdict,note
+000000011149,class_swap,confirmed,"xe dap mau den co gio may o giua anh, detection ghi nham la motorcycle"
+000000025424,class_swap,confirmed,"nguoi choi tennis ao trang dang giao bong, detection ghi nham la skateboard thay vi person"
+000000016451,category_swap,confirmed,"ghe/thung bai bien goc phai canh tui xach, panoptic ghi nham la hot dog, detection chair dung"
+000000010363,missing_box,confirmed,"than xe o to mau den chiem gan het khung hinh duoi con meo, panoptic co car nhung khong co box"
+000000000776,instance_merge,confirmed,"ba con gau bong nau xep chong nhau, panoptic gop gau phia sau va gau ben phai thanh mot segment"
+000000013923,instance_merge,confirmed,"phong khach co nhieu ghe do quanh ban tron trang, hai ghe do sat nhau bi panoptic gop chung mot segment chair"
+000000017182,instance_merge,confirmed,"hang sach bia xanh dung tren ban giao vien truoc bang den, nhieu cuon sach bi gop thanh mot segment book"
+000000023937,instance_merge,confirmed,"goc phai sau bui cay co hai con bo nam sat nhau, detection co 2 box nhung panoptic gop thanh 1 segment cow"
+000000018491,instance_merge,rejected,"hai cau thu bong chay truot vao goc chong len nhau, moi nguoi mot segment rieng, chi la box giao nhau tu nhien"
+000000021604,instance_merge,rejected,"ca vat den co den LED nam trong khung nguoi dan ong mac vest, vat long trong nguoi la binh thuong"
+000000024243,instance_merge,rejected,"hai coc nho dat sat nhau tren bau cua so mep trai, segment tach rieng, box chong nhau do vi tri gan"
+000000001532,missing_box,rejected,"xe nho o xa bi xe SUV che khuat, nhan car va truck chong nhau, nhieu tu nhien cua COCO"

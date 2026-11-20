@@ -1,0 +1,308 @@
+{
+  "candidates": [
+    {
+      "image": "000000000776",
+      "file_name": "000000000776.png",
+      "type": "instance_merge",
+      "segment_id": 4217973,
+      "class_name": "teddy bear",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000000776",
+      "file_name": "000000000776.png",
+      "type": "instance_merge",
+      "segment_id": 1063025,
+      "class_name": "teddy bear",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000001000",
+      "file_name": "000000001000.png",
+      "type": "instance_merge",
+      "segment_id": 6053739,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000001000",
+      "file_name": "000000001000.png",
+      "type": "instance_merge",
+      "segment_id": 4542047,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000001490",
+      "file_name": "000000001490.png",
+      "type": "class_swap",
+      "segment_id": 2500134,
+      "det_class": "80",
+      "seg_class": "person",
+      "bbox_iou": 0.965,
+      "details": "Lệch nhãn lớp: BBox (80) vs Panoptic (person)."
+    },
+    {
+      "image": "000000001532",
+      "file_name": "000000001532.png",
+      "type": "missing_box",
+      "segment_id": 4473405,
+      "class_name": "car",
+      "details": "Segment mask không có Bounding Box nào phủ tới."
+    },
+    {
+      "image": "000000002153",
+      "file_name": "000000002153.png",
+      "type": "instance_merge",
+      "segment_id": 6245964,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000002157",
+      "file_name": "000000002157.png",
+      "type": "instance_merge",
+      "segment_id": 6052710,
+      "class_name": "wine glass",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000002157",
+      "file_name": "000000002157.png",
+      "type": "instance_merge",
+      "segment_id": 6775145,
+      "class_name": "wine glass",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000002157",
+      "file_name": "000000002157.png",
+      "type": "instance_merge",
+      "segment_id": 6050664,
+      "class_name": "wine glass",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000002157",
+      "file_name": "000000002157.png",
+      "type": "instance_merge",
+      "segment_id": 4998986,
+      "class_name": "wine glass",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000002157",
+      "file_name": "000000002157.png",
+      "type": "instance_merge",
+      "segment_id": 6840439,
+      "class_name": "knife",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000002685",
+      "file_name": "000000002685.png",
+      "type": "instance_merge",
+      "segment_id": 3424850,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000002685",
+      "file_name": "000000002685.png",
+      "type": "instance_merge",
+      "segment_id": 5400182,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000002685",
+      "file_name": "000000002685.png",
+      "type": "instance_merge",
+      "segment_id": 2369601,
+      "class_name": "bottle",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000004134",
+      "file_name": "000000004134.png",
+      "type": "instance_merge",
+      "segment_id": 2306376,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000005001",
+      "file_name": "000000005001.png",
+      "type": "instance_merge",
+      "segment_id": 5919587,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000005001",
+      "file_name": "000000005001.png",
+      "type": "instance_merge",
+      "segment_id": 5984609,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000006763",
+      "file_name": "000000006763.png",
+      "type": "instance_merge",
+      "segment_id": 3549757,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000006771",
+      "file_name": "000000006771.png",
+      "type": "instance_merge",
+      "segment_id": 9146550,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000006771",
+      "file_name": "000000006771.png",
+      "type": "instance_merge",
+      "segment_id": 3947437,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000008277",
+      "file_name": "000000008277.png",
+      "type": "instance_merge",
+      "segment_id": 795690,
+      "class_name": "bowl",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000009400",
+      "file_name": "000000009400.png",
+      "type": "instance_merge",
+      "segment_id": 4015183,
+      "class_name": "cup",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000010363",
+      "file_name": "000000010363.png",
+      "type": "missing_box",
+      "segment_id": 2172205,
+      "class_name": "car",
+      "details": "Segment mask không có Bounding Box nào phủ tới."
+    },
+    {
+      "image": "000000011149",
+      "file_name": "000000011149.png",
+      "type": "class_swap",
+      "segment_id": 6317137,
+      "det_class": "motorcycle",
+      "seg_class": "bicycle",
+      "bbox_iou": 0.9945,
+      "details": "Lệch nhãn lớp: BBox (motorcycle) vs Panoptic (bicycle)."
+    },
+    {
+      "image": "000000013923",
+      "file_name": "000000013923.png",
+      "type": "instance_merge",
+      "segment_id": 4080824,
+      "class_name": "chair",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000015278",
+      "file_name": "000000015278.png",
+      "type": "instance_merge",
+      "segment_id": 3037780,
+      "class_name": "broccoli",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000016228",
+      "file_name": "000000016228.png",
+      "type": "instance_merge",
+      "segment_id": 8221060,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000016451",
+      "file_name": "000000016451.png",
+      "type": "class_swap",
+      "segment_id": 3543077,
+      "det_class": "chair",
+      "seg_class": "hot dog",
+      "bbox_iou": 0.9878,
+      "details": "Lệch nhãn lớp: BBox (chair) vs Panoptic (hot dog)."
+    },
+    {
+      "image": "000000017182",
+      "file_name": "000000017182.png",
+      "type": "instance_merge",
+      "segment_id": 4013872,
+      "class_name": "book",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000017182",
+      "file_name": "000000017182.png",
+      "type": "instance_merge",
+      "segment_id": 4671284,
+      "class_name": "book",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000018491",
+      "file_name": "000000018491.png",
+      "type": "instance_merge",
+      "segment_id": 6121085,
+      "class_name": "person",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000021604",
+      "file_name": "000000021604.png",
+      "type": "instance_merge",
+      "segment_id": 1645873,
+      "class_name": "tie",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000023937",
+      "file_name": "000000023937.png",
+      "type": "instance_merge",
+      "segment_id": 3421999,
+      "class_name": "cow",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000023937",
+      "file_name": "000000023937.png",
+      "type": "instance_merge",
+      "segment_id": 6852265,
+      "class_name": "cow",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000024243",
+      "file_name": "000000024243.png",
+      "type": "instance_merge",
+      "segment_id": 7966110,
+      "class_name": "cup",
+      "details": "1 segment mask bị phủ bởi 2 BBox trùng lớp."
+    },
+    {
+      "image": "000000025424",
+      "file_name": "000000025424.png",
+      "type": "class_swap",
+      "segment_id": 11254723,
+      "det_class": "skateboard",
+      "seg_class": "person",
+      "bbox_iou": 0.9921,
+      "details": "Lệch nhãn lớp: BBox (skateboard) vs Panoptic (person)."
+    }
+  ]
+}
